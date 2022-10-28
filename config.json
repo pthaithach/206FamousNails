@@ -1,0 +1,38 @@
+{
+    "data": {
+        "store"     : "Famous Nails",
+        "slug"      : "Famous-nails",
+        "phone"     : "(361) 814-5407",
+        "district"  : "Corpus Christi",
+        "states"    : "Texas 78415",
+        "email"     : "hung_do_81@yahoo.com",
+        "address"   : "5230 Kostoryz Rd # 7, Corpus Christi, Texas 78415",
+        "time_1"    : "Mon - Sat: 09:00 AM - 07:00 PM",
+        "time_2"    : "Sun: 10:00 AM - 06:00 PM"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/famousnailscc",
+        "instagram" :   "https://www.instagram.com/famousnails__",
+        "google"    :   "https://g.page/famousnailscc", 
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDg1Mzl8ZmFtb3VzNTIzMHxUWF8wODA1NHw5ODIyNmU5NGVhMjQyZGE3MDE1Y2I4MTAyMGYzZTdlZg==",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3531.7294326614406!2d-97.41619664881446!3d27.725639031208846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8668f5602daffd4f%3A0x2f0a36e08e298089!2sFamous%20Nails!5e0!3m2!1sen!2s!4v1666344110291!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#1A1A1A",
+        "primary_light"         :   "#727272",
+        "primary_hover"         :   "#727272",
+        "primary_trans"         :   "rgb(26 26 26 / 70%)",
+        "secondary"             :   "#1B3E46",
+        "secondary_hover"       :   "#386270",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "off",
+    "path_image":   "img",
+    "domain":       "http://127.0.0.1:5500/"
+}
+
